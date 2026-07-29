@@ -1,5 +1,7 @@
 # GPT Skills for Organization
 
+[![SoftQuorra AI Organization System](assets/softquorra-ai-organization.svg)](https://softquorra.com/)
+
 Created by **SoftQuorra**, this repository shares a practical AI organization system built around GPT Skills, Codex Skills, Custom GPT instructions, role-specific knowledge files, and repeatable handoff workflows.
 
 SoftQuorra is a software and AI development company plus product studio. This knowledge base is based on SoftQuorra's own operating model for turning ideas into validated products, engineering plans, software builds, QA releases, growth systems, lead-generation workflows, and organization-wide automation.
@@ -9,6 +11,8 @@ If you found this repository while searching for GPT skills, AI agents for busin
 ## Built By SoftQuorra
 
 SoftQuorra builds custom software, SaaS products, AI agents, internal tools, workflow automation, web apps, mobile apps, dashboards, CRMs, integrations, and full product delivery systems.
+
+**Visit SoftQuorra:** [https://softquorra.com/](https://softquorra.com/)
 
 Contact SoftQuorra if you want to:
 
@@ -77,6 +81,8 @@ For Codex, start with:
 This repo is for teams who want AI to support real work, not just produce isolated prompts. SoftQuorra can help you turn the same pattern into a working system for your company: product strategy, custom software, SaaS development, AI agent design, internal automation apps, integrations, QA workflows, growth operations, and lead-generation systems.
 
 If your organization needs software that connects departments, automates repeated work, and gives each team an AI assistant with a clear job, SoftQuorra can design and build the full application layer around it.
+
+Visit [softquorra.com](https://softquorra.com/) to start a conversation with SoftQuorra.
 
 ## Search Paths This Repository Supports
 
