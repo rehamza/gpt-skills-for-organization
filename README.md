@@ -95,3 +95,7 @@ This is a V1 public knowledge base for SoftQuorra's AI organization workflow. Tr
 ## License
 
 MIT License. See `LICENSE` for details.
+
+---
+
+[![Built by SoftQuorra - AI agents, SaaS, custom software, lead generation, and organization automation](assets/softquorra-footer-banner.svg)](https://softquorra.com/)

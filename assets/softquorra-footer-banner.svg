@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title desc">
+  <title id="title">Built by SoftQuorra</title>
+  <desc id="desc">Animated footer linking to SoftQuorra for AI agents, SaaS, software, lead generation, and organization automation.</desc>
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#071521"/>
+      <stop offset="52%" stop-color="#102a32"/>
+      <stop offset="100%" stop-color="#18261f"/>
+    </linearGradient>
+    <linearGradient id="footer-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .brand { font: 700 22px Arial, Helvetica, sans-serif; fill: #f8fafc; letter-spacing: 0; }
+      .services { font: 500 14px Arial, Helvetica, sans-serif; fill: #cbd5e1; letter-spacing: 0; }
+      .link { font: 700 16px Arial, Helvetica, sans-serif; fill: #071521; letter-spacing: 0; }
+      .flow { stroke-dasharray: 7 9; animation: flow 12s linear infinite; }
+      .link-glow { animation: link-glow 3s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -128; } }
+      @keyframes link-glow { 0%, 100% { opacity: 0.82; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="92" rx="12" fill="url(#footer-bg)"/>
+  <rect x="1" y="1" width="1198" height="90" rx="11" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
+  <rect x="0" y="0" width="6" height="92" rx="3" fill="url(#footer-accent)"/>
+
+  <g transform="translate(30 0)">
+    <circle cx="12" cy="34" r="5" fill="#22d3ee" filter="url(#soft-glow)">
+      <animate attributeName="r" values="4;6;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="29" y="41" class="brand">Built by SoftQuorra</text>
+    <text x="29" y="65" class="services">AI agents  |  SaaS  |  custom software  |  lead generation  |  organization automation</text>
+  </g>
+
+  <path d="M690 46 C752 16 820 76 884 46 C927 26 963 28 1000 42" fill="none" stroke="url(#footer-accent)" stroke-width="2" stroke-linecap="round" opacity="0.72" class="flow"/>
+  <circle cx="752" cy="30" r="4" fill="#22d3ee" filter="url(#soft-glow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="884" cy="46" r="4" fill="#34d399" filter="url(#soft-glow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(1000 24)" class="link-glow">
+    <rect width="172" height="44" rx="22" fill="url(#footer-accent)"/>
+    <text x="18" y="28" class="link">softquorra.com</text>
+    <path d="M143 22 H156 M150 16 L156 22 L150 28" fill="none" stroke="#071521" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
