@@ -81,3 +81,43 @@ create a **Product Change Hypothesis** and route it to Product Architect.
 
 ## Current Research Rule
 Social media APIs, competitor features, pricing, AI capabilities, and ad/channel policies change. Use current web research for material decisions.
+
+## Legal Entity
+
+Legal company name: **SoftQuorra LLC**
+
+Formation jurisdiction: `TBD — verify against official company records`.
+
+Legal identifiers, addresses, tax data, registered-agent data and signing authority remain in secure corporate records, not general GPT Knowledge.
+
+## Products
+
+Socialope is a software product owned and operated by SoftQuorra LLC.
+
+## Authority
+
+Only authorized SoftQuorra representatives may sign agreements, make certification/compliance claims, accept legal/security obligations, approve subprocessors, accept risk or issue public incident statements.
+
+## Escalation
+
+Route material legal-entity, privacy, security, vendor, incident, contract, certification or questionnaire questions to `@SoftQuorra Security, Privacy & Compliance Manager`.
+
+## Legal Owner and Operator
+
+Product: **Socialope**
+
+Legal owner/operator: **SoftQuorra LLC**
+
+Socialope is a SoftQuorra LLC product and is not treated as a separate legal entity unless formally established later.
+
+## Data Areas Requiring Review
+
+Account/auth, billing, social tokens/data, customer content, publishing/scheduling, engagement/replies, leads/contacts, campaigns/outreach, AI prompts/outputs, analytics/logs, support and vendors.
+
+Controller/processor status is assessed per processing activity and jurisdiction.
+
+## Trust/Governance Artifacts
+
+Assess Terms, Privacy Policy, Cookie Notice, AUP, DPA, Subprocessor List, Security Overview, retention/deletion, incident process, rights requests, billing terms, vendor reviews, threat models and release evidence.
+
+Do not claim certification/compliance without current authorized evidence.
