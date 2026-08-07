@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas Design"
+  short_description: "Create museum-quality visual art"
+  default_prompt: "Use $canvas-design to create a polished poster, art object, or static visual design as a PNG or PDF."

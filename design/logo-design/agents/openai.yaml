@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo Design"
+  short_description: "Create distinctive production-ready logo systems"
+  default_prompt: "Use $logo-design to create a distinctive, production-ready logo system for my brand."
